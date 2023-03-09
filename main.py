@@ -1,4 +1,4 @@
-from library import pytube 
+import pytube 
 
 # Paste the YouTube video URL here
 url = input("Enter url video")
